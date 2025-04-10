@@ -13,6 +13,7 @@ Criar projetos extremamente simples para:
 ## Exemplos de projetos
 
 - Página com texto e imagens
+- Formularios básicos de login *simulaçao*
 - Botão que altera o texto ao ser clicado
 - Layouts com grid responsivo
 - Botões animados
