@@ -1,4 +1,4 @@
-//Atividade 2 Vinicius Arcanjo Lobato Montuani N 29 2 DEV B
+//Atividade 2 Vinicius Montuani
 programa {
   funcao inicio() {
     cadeia senha, senha_correta
