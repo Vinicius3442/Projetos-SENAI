@@ -26,7 +26,7 @@ Criar projetos extremamente simples para:
 
 Cada projeto está em sua própria pasta, com os arquivos separados:
 - `index.html`
-- `style.css`
+- `styles.css`
 - `script.js` *por enquanto nenhum com scripts*
 
 ## Observações
