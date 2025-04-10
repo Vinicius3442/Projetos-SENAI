@@ -1,4 +1,4 @@
-//Vinicius A. L. Montuani, Pietro Rennó N°29 e N°23
+//Vinicius A. L. Montuani, Pietro
 int ledPin = 9;
 int potPin = A5;
 int valorpot = 0;
