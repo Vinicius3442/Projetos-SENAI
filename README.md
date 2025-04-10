@@ -34,9 +34,16 @@ Repositório criado para documentar e organizar os projetos desenvolvidos durant
 
 ## Agradecimentos especiais
 
-Agradecimentos a quem me ajudou ao longo da jornada:
-*Vou adicionar quando me mandarem seu perfil, estou falando com vocês mesmo*
-Se quiser ser adicionado, me avisa.
+Agradecimentos a quem me ajudou, incentivou ou participou direta ou indiretamente destes projetos:
+
+Aos meus amigos:
+
+- [@Felipenhos](https://github.com/Felipenhos)
+- [@Tomate3181](https://github.com/Tomate3181)
+
+Aos meus professores:
+
+Se quiser ser adicionado me avisa
 
 ## Observações
 
