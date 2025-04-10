@@ -2,7 +2,7 @@
 
 Repositório criado para documentar e organizar os projetos desenvolvidos durante meu curso técnico de Desenvolvimento de Sistemas no SENAI.
 
-##IMPORTANTE
+## IMPORTANTE
 
 *Repositório sem fins lucrativos, qualquer uso de conteúdo de terceiros foi usado apenas para meu aprendizado, nenhum dos projetos daqui será usado comercialmente*
 
