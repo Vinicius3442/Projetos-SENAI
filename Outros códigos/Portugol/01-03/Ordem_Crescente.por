@@ -1,4 +1,4 @@
-//Atividade 15 - Vinicius Arcanjo Lobato Montuani N°29 2°DEV B
+//Atividade 15 - Vinicius Montuani
 programa {
   inclua  biblioteca Matematica --> mat
   funcao inicio() {
