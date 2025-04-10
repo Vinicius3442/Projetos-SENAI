@@ -7,8 +7,7 @@ programa {
     escreva("Digite sua senha: \n")
     leia(senha)
 
-    enquanto (senha_correta != senha) //Fiquei um tempo enorme quebrando a cabeça para descobrir porque não estava funcionado, no portugol Web o "diferente" é != e não <>.
-    {
+    enquanto (senha_correta != senha){
       escreva("Senha incorreta, digite novamente: \n")
       leia(senha)
     }
