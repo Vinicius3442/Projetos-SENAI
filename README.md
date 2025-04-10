@@ -2,6 +2,10 @@
 
 Repositório criado para documentar e organizar os projetos desenvolvidos durante meu curso técnico de Desenvolvimento de Sistemas no SENAI.
 
+##IMPORTANTE
+
+*Repositório sem fins lucrativos, qualquer uso de conteúdo de terceiros foi usado apenas para meu aprendizado, nenhum dos projetos daqui será usado comercialmente*
+
 ## Acesse o site com meus projetos
 
 [Visite minha página](https://vinicius3442.github.io/Projetos-SENAI/) organizando os meus projetos web desse repositório
