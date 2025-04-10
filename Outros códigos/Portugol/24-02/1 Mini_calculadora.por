@@ -1,4 +1,4 @@
-//Atividade 1 Vinicius Arcanjo Lobato Montuani N 29 2 DEV B
+//Atividade 1 Vinicius Montuani 
 programa {
   funcao inicio() {
     cadeia operacao
