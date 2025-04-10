@@ -1,4 +1,4 @@
-//Atividade 3 Vinicius Arcanjo Lobato Montuani N 29 2 DEV B
+//Atividade 3 Vinicius Montuani
 programa {
   inclua biblioteca Util
   funcao inicio() {
