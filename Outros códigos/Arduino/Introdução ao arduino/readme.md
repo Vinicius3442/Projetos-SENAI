@@ -19,7 +19,7 @@ Este foi o primeiro projeto utilizando o Arduino. O objetivo foi começar a ente
 
 ## Créditos
 
-- Vinicius (@vinicius3442)
+- Vinicius Montuani ([@vinicius3442](https://github.com/Vinicius3442))
 - placeholder ([@placeholder](https://github.com/)) *vou adicionar ele quando ele criar seu perfil*
 
 ---
