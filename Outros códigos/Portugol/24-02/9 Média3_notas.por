@@ -1,5 +1,5 @@
-//Atividade 9 Vinicius Arcanjo Lobato Montuani N 29 2 DEV B
-programa {
+//Atividade 9 Vinicius Montuani
+programa{
   inclua biblioteca Matematica-->mat
   funcao inicio() {
     real nota1, nota2, nota3, media, media_arredondada
