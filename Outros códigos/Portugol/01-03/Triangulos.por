@@ -1,4 +1,4 @@
-//Atividade 11 Vinicius Arcanjo Lobato Montuani N°29 2°DEV B
+//Atividade 11 Vinicius Montuani
 programa {
   funcao inicio() {
 
