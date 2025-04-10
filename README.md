@@ -4,7 +4,7 @@ Repositório criado para documentar e organizar os projetos desenvolvidos durant
 
 ## Acesse o site com meus projetos
 
-[Visite minha página organizando os meus projetos web desse repositório](https://vinicius3442.github.io/Projetos-SENAI/)
+[Visite minha página](https://vinicius3442.github.io/Projetos-SENAI/) organizando os meus projetos web desse repositório
 *No futuro, conforme for aprendendo outras coisas vou melhorando essa página*
 
 ## Acesse meu Notion de estudos e documentação dos projetos
