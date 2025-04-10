@@ -1,4 +1,4 @@
-//Atividade 5 Vinicius Arcanjo Lobato Montuani N°29 2°DEV B
+//Atividade 5 Vinicius Montuani
 programa {
   funcao inicio() {
     inteiro entrada
