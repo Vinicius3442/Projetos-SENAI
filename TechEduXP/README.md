@@ -38,7 +38,7 @@ O Tech Edu XP é um site com temática retrô, dividido em seções que simulam 
 - Estou muito orgulhoso deste projeto, fiz com muito empenho e dedicação, deu muito trabalho
 
 ## Creditos
-- Vinicius Montuani @Vinicius3442](https://github.com/Vinicius3442)
+- Vinicius Montuani [@Vinicius3442](https://github.com/Vinicius3442)
 - Placeholder *esperando ele me mandar seu perfil*
 - Som de erro do Windows XP retirado do site [MyInstants](https://www.myinstants.com/media/sounds/windows-xp-error.mp3)
 - Estilo visual baseado na biblioteca [XP.css](https://botoxparty.github.io/XP.css/) criada por [@botoxparty](https://github.com/botoxparty)
