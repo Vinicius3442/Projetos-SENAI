@@ -1,8 +1,8 @@
-//Atividade 6 Vinicius Arcanjo Lobato Montuani N 29 2 DEV B
+//Atividade 6 Vinicius Montuani
 programa {
   funcao inicio() {
     cadeia nome, email, endereco, cpf, sobrenome, entrada1, entrada2
-    logico fim = falso //https://youtu.be/0k5PiSRpjEE?si=uW4L20JdzaFVAZGF vi sobre o tipo de variavel lógico aqui
+    logico fim = falso
 
     escreva("Para efetuarmos o seu cadastro precisaremos de alguns dados\n")
     escreva("Digite o seu primeiro nome: ")
