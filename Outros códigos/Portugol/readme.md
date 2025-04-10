@@ -7,8 +7,7 @@ Este projeto marca meu primeiro contato com programação utilizando código esc
 Durante esse primeiro contato, comecei a aprender os conceitos fundamentais da lógica de programação e da sintaxe de linguagens reais. Utilizei a ferramenta Portugol Studio
 
 ## Conteúdos abordados
-
-- Sintaxe básica de linguagens como Portugol e C++
+- Sintaxe básica de Portugol
 - Estruturas de controle (`if`, `else`, `while`, `for`)
 - Variáveis, tipos de dados e entrada/saída
 - Organização e clareza do código
