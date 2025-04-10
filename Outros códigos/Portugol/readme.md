@@ -22,4 +22,4 @@ Durante esse primeiro contato, comecei a aprender os conceitos fundamentais da l
 
 ## Observações
 
-Esses primeiros códigos são simples, mas representam uma etapa importante na minha jornada como programador. Estão organizados em arquivos `.por`.
+Esses primeiros códigos são simples, mas foram muito importantes para meu aprendizado como programador. Estão organizados em arquivos `.por`.
