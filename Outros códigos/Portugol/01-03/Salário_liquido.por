@@ -1,4 +1,4 @@
-//Atividade 8 Vinicius Arcanjo Lobato Montuani N°29 2°DEV B
+//Atividade 8 Vinicius Montuani
 programa {
   funcao inicio() {
     inteiro salario_bruto, salario_liquido, desconto
