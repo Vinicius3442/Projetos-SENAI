@@ -38,7 +38,7 @@ Agradecimentos a quem me ajudou, incentivou ou participou direta ou indiretament
 
 Aos meus amigos:
 
-- [@Felipenhos](https://github.com/Felipenhos)
+- [@Felipenhos](https://github.com/Felipenhoslol)
 - [@Tomate3181](https://github.com/Tomate3181)
 
 Aos meus professores:
