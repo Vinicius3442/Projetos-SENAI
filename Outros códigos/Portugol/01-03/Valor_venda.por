@@ -1,4 +1,4 @@
-//Atividade 9 Vinicius Arcanjo Lobato Montuani N°29 2°DEV B
+//Atividade 9 Vinicius Montuani
 programa {
   funcao inicio() {
     real valor_inc, valor_fin, desconto
