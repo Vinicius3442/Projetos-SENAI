@@ -6,7 +6,7 @@ programa {
     escreva("Digite um número inteiro qualquer:\n")
     leia(entrada)
 
-    se(entrada < 100 ou entrada > 500){//Operação lógica "ou" vi no manual
+    se(entrada < 100 ou entrada > 500){
     escreva("O numero digitado foi: ", entrada, " o numero esta FORA do intervalo de 100 e 500")
     }
     senao{
