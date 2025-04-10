@@ -1,0 +1,57 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url(./Assets/bk.jpg);
+    margin: 0;
+    font-family: "Segoe UI", sans-serif;
+}
+
+.window {
+    width: 90%;
+    max-width: 400px;
+    height: auto;
+}
+
+.profile {
+    text-align: center;
+    padding: 1rem;
+}
+
+.profile img {
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+  }
+
+.profile p {
+    font-size: 10px;
+    font-weight: bold;
+    color: #000000;
+}
+
+#my-name {
+    font-size: 25px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.button-list-projects,
+  .button-list-simple-projects,
+  .button-list-perfis {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 24px;
+    width: 100%;
+    font-size: 10px;
+}
+
+.link-button button {
+    padding: 6px 12px;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+}

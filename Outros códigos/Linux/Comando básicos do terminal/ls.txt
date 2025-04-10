@@ -1,0 +1,2 @@
+$ ls
+Documentos  Downloads  Imagens  Música  Vídeos
