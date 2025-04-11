@@ -40,8 +40,11 @@ Aos meus amigos:
 
 - [@Felipenhos](https://github.com/Felipenhoslol)
 - [@Tomate3181](https://github.com/Tomate3181)
+- [@30d3m0s](https://github.com/30d3m0s)
 
 Aos meus professores:
+
+- [@Cardoso30S](https://github.com/Cardoso30S)
 
 Se quiser ser adicionado me avisa
 
