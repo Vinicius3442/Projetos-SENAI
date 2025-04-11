@@ -1,56 +1,91 @@
-# Projetos SENAI
+<h1 align="center">Olá, eu sou o Vinicius 👋</h1>
 
-Repositório criado para documentar e organizar os projetos desenvolvidos durante meu curso técnico de Desenvolvimento de Sistemas no SENAI.
+<p align="center">
+  Estudante de Técnico em Desenvolvimento de Sistemas pelo SENAI.<br>
+  Apaixonado por tecnologia, programação, redes de computadores e cibersegurança.
+</p>
 
-## Importante
+---
 
-***Repositório sem fins lucrativos**, qualquer uso de conteúdo de terceiros foi usado apenas para meu aprendizado, nenhum dos projetos daqui será usado comercialmente*
+<h2 align="center">Meus conhecimentos</h2>
 
-## Acesse o site com meus projetos
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-122F2B?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-122F2B?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-122F2B?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-[Visite minha página](https://vinicius3442.github.io/Projetos-SENAI/) organizando os meus projetos web desse repositório
-*No futuro, conforme for aprendendo outras coisas vou melhorando essa página*
+---
 
-## Acesse meu Notion de estudos e documentação dos projetos
+<h2 align="center">Estatísticas do GitHub</h2>
 
-[Meu Notion](https://www.notion.so/Plano-de-estudos-1ce9053fa9bb806da427d118a429801c?pvs=4)  
-*Inclui planos de estudo, certificações de cursos, catalogo de bugs, relátorio dos projetos que você encontra aqui*
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius3442&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius3442&layout=compact&theme=radical" />
+</p>
 
-## Estrutura do repositório
+---
 
-- `Projetos Simples/` – Exercícios básicos e pequenos testes em HTML, CSS e JS
-- `Tech Edu XP/` – Site educacional com visual inspirado no Windows XP
-- `Outros Códigos/` – Códigos variados:
-  - **Linux** – Comandos e exercícios de terminal
-  - **Portugol** – Exercícios de lógica de programação
-  - **Arduino (C++)** – Projetos com sensores e componentes variados
-  - (Mais linguagens serão adicionadas com o tempo)
+<h2 align="center">Tecnologias em Estudo</h2>
 
-## O que você encontra aqui
-- Meu projetos do SENAI
-- Projetos front-end com HTML, CSS e JavaScript
-- Exercícios de lógica e programação
-- Códigos e práticas em diversas linguagens
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />
+</p>
 
-## Agradecimentos especiais
+---
 
-Agradecimentos a quem me ajudou, incentivou ou participou direta ou indiretamente destes projetos:
+<h2 align="center">Tecnologias que Pretendo Aprender</h2>
 
-Aos meus amigos:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="50"/>
+</p>
 
-- [@Felipenhos](https://github.com/Felipenhoslol)
-- [@Tomate3181](https://github.com/Tomate3181)
-- [@30d3m0s](https://github.com/30d3m0s)
+---
 
-Aos meus professores:
+<h2 align="center">Projetos do SENAI</h2>
 
-- [@Cardoso30S](https://github.com/Cardoso30S)
+<p align="center">
+  <a href="https://github.com/Vinicius3442/Projetos-SENAI">Repositório no GitHub</a> |
+  <a href="https://vinicius3442.github.io/Projetos-SENAI/">Site com os Projetos</a>
+</p>
 
-Se quiser ser adicionado me avisa
+---
 
-## Observações
+<h2 align="center">Notion de Estudos</h2>
 
-Este repositório será atualizado constantemente com novos projetos e exercícios que eu for aprendendo ao longo do curso.
+<p align="center">
+  <a href="https://www.notion.so/Plano-de-estudos-1ce9053fa9bb806da427d118a429801c?pvs=4">Acesse meu Notion com planos de estudo, documentação, bugs e mais</a>
+</p>
 
-## Contato
-- GitHub: [@vinicius3442](https://github.com/vinicius3442)
+---
+
+<h2 align="center">Agradecimentos</h2>
+
+<p align="center"><strong>Amigos:</strong></p>
+
+<p align="center">
+  <a href="https://github.com/Felipenhoslol">@Felipenhos</a> |
+  <a href="https://github.com/Tomate3181">@Tomate3181</a> |
+  <a href="https://github.com/30d3m0s">@30d3m0s</a>
+</p>
+
+<p align="center"><strong>Professores:</strong></p>
+
+<p align="center">
+  <a href="https://github.com/Cardoso30S">@Cardoso30S</a> |
+  <a href="https://github.com/lucasmsdev">@lucasmsdev</a>
+</p>
+
+<p align="center"><em>Se quiser ser adicionado aqui, me avisa!</em></p>
+
+---
+
+<h2 align="center">Contato</h2>
+
+<p align="center">
+  <a href="https://github.com/vinicius3442">GitHub: @vinicius3442</a>
+</p>
