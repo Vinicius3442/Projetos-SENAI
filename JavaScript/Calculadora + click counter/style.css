@@ -1,0 +1,314 @@
+:root {
+  --azul-primario: #1E3A8A;
+  --azul-secundario: #3B82F6;
+  --azul-hover: #2563EB;
+  --amarelo-primario: #F59E0B;
+  --amarelo-secundario: #FCD34D;
+  --branco: #FFFFFF;
+  --cinza-claro: #F3F4F6;
+  --cinza-texto: #6B7280;
+  --cinza-escuro: #1F2937;
+  --border-radius: 10px;
+  --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: var(--cinza-claro);
+  color: var(--cinza-escuro);
+  line-height: 1.6;
+}
+
+.container-fluid {
+  padding: 0;
+  max-width: 1200px;
+}
+
+/* Cabeçalho com gradiente azul */
+.cabecalho {
+  background: linear-gradient(135deg, var(--azul-primario), var(--azul-secundario));
+  color: var(--branco);
+  padding: 2.5rem 1rem;
+  text-align: center;
+  margin-bottom: 3rem;
+  box-shadow: var(--box-shadow);
+  position: relative;
+  overflow: hidden;
+}
+
+.cabecalho::after {
+  content: "";
+  position: absolute;
+  bottom: -20px;
+  left: 0;
+  right: 0;
+  height: 40px;
+  background: var(--amarelo-primario);
+  transform: skewY(-2deg);
+  z-index: 1;
+}
+
+.cabecalho h1 {
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+  position: relative;
+  z-index: 2;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.cabecalho p {
+  font-size: 1.1rem;
+  opacity: 0.9;
+  position: relative;
+  z-index: 2;
+}
+
+/* Layout do Corpo - Carrossel à esquerda, Calculadora à direita */
+.corpo {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 2.5rem;
+  padding: 0 1.5rem;
+  margin-bottom: 3rem;
+  align-items: start;
+}
+
+@media (max-width: 992px) {
+  .corpo {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Carrossel Estilizado */
+.carousel {
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  box-shadow: var(--box-shadow);
+  height: 100%;
+  border: 8px solid var(--branco);
+}
+
+.imagem {
+  height: 450px;
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+  filter: brightness(0.95);
+  transition: transform 0.5s ease;
+}
+
+.carousel:hover .imagem {
+  transform: scale(1.02);
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: rgba(30, 58, 138, 0.7);
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+  margin: 0 20px;
+  transition: var(--transition);
+}
+
+.carousel-control-prev:hover,
+.carousel-control-next:hover {
+  background-color: var(--azul-primario);
+}
+
+/* Calculadora - Estilo em Painel */
+.coluna2 {
+  background: var(--branco);
+  padding: 2.5rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  position: sticky;
+  top: 20px;
+  border-top: 5px solid var(--amarelo-primario);
+}
+
+.coluna2 h2 {
+  color: var(--azul-primario);
+  margin-bottom: 1.25rem;
+  font-weight: 700;
+  font-size: 1.75rem;
+  position: relative;
+  padding-bottom: 0.75rem;
+}
+
+.coluna2 h2::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 50px;
+  height: 3px;
+  background: var(--amarelo-primario);
+}
+
+.coluna2 p {
+  color: var(--cinza-texto);
+  margin-bottom: 2rem;
+  font-size: 1rem;
+}
+
+/* Formulário Calculadora */
+#calculadora-container {
+  width: 100%;
+  max-width: 100%;
+  padding: 0;
+  border: none;
+}
+
+.form-group {
+  margin-bottom: 1.75rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+  color: var(--azul-primario);
+  font-size: 0.95rem;
+}
+
+.form-control {
+  width: 100%;
+  padding: 0.85rem 1.25rem;
+  border: 2px solid #E5E7EB;
+  border-radius: var(--border-radius);
+  font-size: 1rem;
+  transition: var(--transition);
+  background-color: var(--cinza-claro);
+}
+
+.form-control:focus {
+  border-color: var(--azul-secundario);
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+  background-color: var(--branco);
+}
+
+/* Botão com destaque amarelo */
+#botao {
+  background: linear-gradient(to right, var(--amarelo-primario), var(--amarelo-secundario));
+  color: var(--azul-primario);
+  border: none;
+  padding: 1rem 1.5rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  transition: var(--transition);
+  width: 100%;
+  margin-top: 0.75rem;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  box-shadow: 0 4px 6px rgba(245, 158, 11, 0.2);
+}
+
+#botao:hover {
+  background: linear-gradient(to right, #E67E22, var(--amarelo-primario));
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(245, 158, 11, 0.3);
+  color: var(--branco);
+}
+
+/* Rodapé Azul */
+.rodape {
+  background: var(--azul-primario);
+  color: var(--branco);
+  padding: 1.75rem;
+  text-align: center;
+  margin-top: 4rem;
+  position: relative;
+}
+
+.rodape::before {
+  content: "";
+  position: absolute;
+  top: -20px;
+  left: 0;
+  right: 0;
+  height: 40px;
+  background: var(--amarelo-primario);
+  transform: skewY(2deg);
+}
+
+.rodape .endereco {
+  margin: 0;
+  opacity: 0.85;
+  font-size: 0.95rem;
+  position: relative;
+  z-index: 2;
+}
+
+
+/* Estilo do botão/link do contador */
+/* Substitua o estilo atual do #botao-contador por este: */
+#botao-contador {
+  display: block;
+  width: fit-content;
+  margin: 1.5rem auto 0;
+  padding: 0.75rem 1.5rem;
+  background: linear-gradient(to right, var(--amarelo-primario), var(--amarelo-secundario));
+  color: var(--azul-primario);
+  border: none;
+  border-radius: var(--border-radius);
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  transition: var(--transition);
+  box-shadow: var(--box-shadow);
+  cursor: pointer;
+}
+
+#botao-contador:hover {
+  background: linear-gradient(to right, #e68a00, var(--amarelo-primario));
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(245, 158, 11, 0.3);
+}
+/* Responsividade */
+@media (max-width: 768px) {
+  .cabecalho h1 {
+    font-size: 2rem;
+  }
+  
+  .imagem {
+    height: 350px;
+  }
+  
+  .coluna2 {
+    padding: 1.75rem;
+  }
+  
+  .corpo {
+    gap: 1.5rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .cabecalho {
+    padding: 2rem 1rem;
+  }
+  
+  .imagem {
+    height: 280px;
+  }
+  
+  .coluna2 {
+    padding: 1.5rem;
+  }
+  
+  .form-control {
+    padding: 0.75rem 1rem;
+  }
+  
+  #botao {
+    padding: 0.9rem;
+  }
+}

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cálculo de Viagem</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We"
+      crossorigin="anonymous"
+    />
+    <link href="style.css" rel="stylesheet" />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj"
+      crossorigin="anonymous"
+      defer
+    ></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="cabecalho row">
+        <div class="grid col-sm">
+          <h1>Cálculo de Viagem</h1>
+          <p>Sistema de cálculo automático de viagens.</p>
+        </div>
+      </div>
+
+      <div class="corpo row">
+        <div class="grid col-sm">
+          <div
+            id="carouselExampleControls"
+            class="carousel slide"
+            data-bs-ride="carousel"
+          >
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img
+                  src="./img/Praia"
+                  class="imagem d-block w-100"
+                  alt="Praia"
+                />
+              </div>
+              <div class="carousel-item">
+                <img
+                  src="./img/Mundo"
+                  class="imagem d-block w-100"
+                  alt="Mundo"
+                />
+              </div>
+              <div class="carousel-item">
+                <img
+                  src="./img/aviao"
+                  class="imagem d-block w-100"
+                  alt="Cidade"
+                />
+              </div>
+            </div>
+            <button
+              class="carousel-control-prev"
+              type="button"
+              data-bs-target="#carouselExampleControls"
+              data-bs-slide="prev"
+            >
+              <span
+                class="carousel-control-prev-icon"
+                aria-hidden="true"
+              ></span>
+              <span class="visually-hidden">Anterior</span>
+            </button>
+            <button
+              class="carousel-control-next"
+              type="button"
+              data-bs-target="#carouselExampleControls"
+              data-bs-slide="next"
+            >
+              <span
+                class="carousel-control-next-icon"
+                aria-hidden="true"
+              ></span>
+              <span class="visually-hidden">Próxima</span>
+            </button>
+          </div>
+        </div>
+        <div class="coluna2 grid col-sm">
+          <h2>Calculadora de Viagem</h2>
+
+          <p>
+            Calcule sua viagem facilmente, preenchendo os dados abaixo e clicando no
+            botão "Calcular Viagem".
+          </p>
+
+          <div id="calculadora-container">
+            <div class="form-group">
+              <label for="pessoas">Número de Pessoas:</label>
+              <input type="number" class="form-control" id="pessoas" />
+            </div>
+            <div class="form-group">
+              <label for="custo">Custo da Passagem (R$):</label>
+              <input type="number" class="form-control" id="custo" />
+            </div>
+            <button id="botao" type="button" class="btn btn-primary btn-lg">
+              Calcular Viagem
+            </button>
+          <a href="contadorclicks/index.html" id="botao-contador" class="btn btn-primary mt-3">
+           Ir para Contador de Cliques
+          </a>
+            </div>
+        </div>
+      </div>
+
+      <div class="rodape row">
+        <div class="grid col-sm">
+          <p class="endereco">SENAI - SESI Caçapava</p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
