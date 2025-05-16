@@ -1,9 +1,7 @@
 body {
   background: linear-gradient(120deg, #314C53, #1F2E33);
   background-size: 400% 400%;
-  animation: gradientBG 15s ease infinite;
   color: #f0f8ff;
-  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .accordion-button {
@@ -112,5 +110,3 @@ section .row p {
 footer {
   background-color: #263238;
 }
-
-/* Removido a parte do modo claro */
