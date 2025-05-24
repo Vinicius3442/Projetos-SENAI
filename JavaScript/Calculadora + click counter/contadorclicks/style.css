@@ -1,0 +1,166 @@
+
+/* contadorclicks/contador.css */
+:root {
+  /* Herda as variáveis do CSS principal */
+  --azul-primario: #1E3A8A;
+  --azul-secundario: #3B82F6;
+  --amarelo-primario: #F59E0B;
+  --amarelo-secundario: #FCD34D;
+  --branco: #FFFFFF;
+  --cinza-claro: #F3F4F6;
+  --border-radius: 10px;
+  --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --transition: all 0.3s ease;
+}
+
+/* Container Principal */
+.container-contador {
+  max-width: 450px;
+  margin: 2rem auto;
+  padding: 2.5rem;
+  background: var(--branco);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  text-align: center;
+  border-top: 5px solid var(--amarelo-primario);
+}
+
+/* Título */
+.container-contador h1 {
+  color: var(--azul-primario);
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  position: relative;
+}
+
+.container-contador h1::after {
+  content: "";
+  position: absolute;
+  bottom: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  background: var(--amarelo-primario);
+}
+
+/* Display do Contador */
+#display {
+  font-size: 4.5rem;
+  font-weight: 700;
+  color: var(--azul-primario);
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: var(--cinza-claro);
+  border-radius: var(--border-radius);
+  transition: var(--transition);
+}
+
+/* Botão de Clique */
+.btn-clique {
+  background: linear-gradient(to right, var(--amarelo-primario), var(--amarelo-secundario));
+  color: var(--azul-primario);
+  border: none;
+  padding: 1rem 2.5rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  transition: var(--transition);
+  margin: 0.5rem;
+  box-shadow: var(--box-shadow);
+  display: inline-block;
+}
+
+/* Botão de Reset */
+.btn-reset {
+  background: var(--azul-secundario);
+  color: var(--branco);
+  border: none;
+  padding: 0.8rem 1.8rem;
+  font-size: 1rem;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  transition: var(--transition);
+  margin: 0.5rem;
+}
+
+/* Botão Voltar */
+.btn-voltar {
+  display: inline-block;
+  margin-top: 2rem;
+  color: var(--azul-primario);
+  font-weight: 600;
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+/* Efeitos Hover */
+.btn-clique:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(245, 158, 11, 0.3);
+}
+
+.btn-reset:hover {
+  background: var(--azul-primario);
+  transform: translateY(-2px);
+}
+
+.btn-voltar:hover {
+  text-decoration: underline;
+}
+
+/* Efeito no Display (ativado via JS) */
+#display.animar {
+  transform: scale(1.1);
+}
+
+/* Animação de fade-in geral */
+body {
+  opacity: 0;
+  animation: fadeIn 1s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Efeito cascata nos elementos */
+.container-contador > * {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+/* Atrasos progressivos para cada elemento */
+.container-contador h1 {
+  animation-delay: 0.3s;
+}
+
+.container-contador #display {
+  animation-delay: 0.5s;
+}
+
+.container-contador .btn-clique {
+  animation-delay: 0.7s;
+}
+
+.container-contador .btn-reset {
+  animation-delay: 0.8s;
+}
+
+.container-contador .btn-voltar {
+  animation-delay: 1s;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
