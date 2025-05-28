@@ -1,0 +1,15 @@
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\C# Microsoft learn Exercises, introdution to csharp\Temperature convert\bin\Debug\net8.0\Temperature convert.exe
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\C# Microsoft learn Exercises, introdution to csharp\Temperature convert\bin\Debug\net8.0\Temperature convert.deps.json
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\C# Microsoft learn Exercises, introdution to csharp\Temperature convert\bin\Debug\net8.0\Temperature convert.runtimeconfig.json
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\C# Microsoft learn Exercises, introdution to csharp\Temperature convert\bin\Debug\net8.0\Temperature convert.dll
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\C# Microsoft learn Exercises, introdution to csharp\Temperature convert\bin\Debug\net8.0\Temperature convert.pdb
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\C# Microsoft learn Exercises, introdution to csharp\Temperature convert\obj\Debug\net8.0\Temperature convert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\C# Microsoft learn Exercises, introdution to csharp\Temperature convert\obj\Debug\net8.0\Temperature convert.AssemblyInfoInputs.cache
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\C# Microsoft learn Exercises, introdution to csharp\Temperature convert\obj\Debug\net8.0\Temperature convert.AssemblyInfo.cs
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\C# Microsoft learn Exercises, introdution to csharp\Temperature convert\obj\Debug\net8.0\Temperature convert.csproj.CoreCompileInputs.cache
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\C# Microsoft learn Exercises, introdution to csharp\Temperature convert\obj\Debug\net8.0\Temperature convert.sourcelink.json
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\C# Microsoft learn Exercises, introdution to csharp\Temperature convert\obj\Debug\net8.0\Temperature convert.dll
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\C# Microsoft learn Exercises, introdution to csharp\Temperature convert\obj\Debug\net8.0\refint\Temperature convert.dll
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\C# Microsoft learn Exercises, introdution to csharp\Temperature convert\obj\Debug\net8.0\Temperature convert.pdb
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\C# Microsoft learn Exercises, introdution to csharp\Temperature convert\obj\Debug\net8.0\Temperature convert.genruntimeconfig.cache
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\C# Microsoft learn Exercises, introdution to csharp\Temperature convert\obj\Debug\net8.0\ref\Temperature convert.dll
