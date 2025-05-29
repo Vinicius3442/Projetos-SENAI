@@ -1,44 +1,51 @@
-﻿ //Teste Upper case
-string teste = "Rolagem de dados".ToUpper();
+using System;
 
-Console.WriteLine(teste);
-Console.WriteLine();
+namespace RolagemDeDados
+{
+    class Program
+    {
+        public static void Main()
+        {
+            // Teste Upper case
+            string teste = "Rolagem de dados".ToUpper();
+            Console.WriteLine(teste);
+            Console.WriteLine();
 
-//Rolagem dado:
+            // Rolagem dado:
+            Random dice = new Random();
+            int rollD6 = dice.Next(1, 7);
+            Console.WriteLine($"O número sorteado pelo D6 foi: {rollD6}");
 
-Random dice = new Random();
-int rollD6 = dice.Next(1, 7);
+            // Rolagem Tripla:
+            int rollD8 = dice.Next(1, 9);
+            int rollD12 = dice.Next(1, 13);
+            int rollD20 = dice.Next(1, 21);
 
-Console.WriteLine($"O número sorteado pelo D6 foi: {rollD6}");
+            Console.WriteLine($"O número sorteado pelo D8 foi: {rollD8}");
+            Console.WriteLine($"O número sorteado pelo D12 foi: {rollD12}");
+            Console.WriteLine($"O número sorteado pelo D20 foi: {rollD20}");
 
-//Rolagem Tripla:
+            // Bigger value desafio (minha solução):
+            int firstValue = 500;
+            int secondValue = 600;
+            int largerValue;
 
-int rollD8 = dice.Next(1, 9);
-int rollD12 = dice.Next(1, 13);
-int rollD20 = dice.Next(1, 21);
+            if (firstValue > secondValue)
+            {
+                largerValue = firstValue;
+            }
+            else
+            {
+                largerValue = secondValue;
+            }
 
-Console.WriteLine($"O número sorteado pelo D8 foi: {rollD8}");
-Console.WriteLine($"O número sorteado pelo D12 foi: {rollD12}");
-Console.WriteLine($"O número sorteado pelo D20 foi: {rollD20}");
+            Console.WriteLine($"Minha solução {largerValue}");
 
-//Bigger value desafio (minha solução):
-
-int firstValue = 500;
-int secondValue = 600;
-int largerValue;
-
-if (firstValue > secondValue) {
-    largerValue = firstValue;
-} else {
-    largerValue = secondValue;
+            // Solução Microsoft:
+            int firstValue2 = 500;
+            int secondValue2 = 600;
+            int largerValue2 = Math.Max(firstValue2, secondValue2);
+            Console.WriteLine($"Solução Microsoft Learn: {largerValue2}");
+        }
+    }
 }
-
-Console.WriteLine($"Minha solução {largerValue}");
-
-//Solução microsoft,
-
-int firstValue2 = 500;
-int secondValue2 = 600;
-int largerValue2;
-largerValue2 = Math.Max(firstValue2, secondValue2);
-Console.WriteLine($"Solução Microsoft learn: {largerValue2}");
