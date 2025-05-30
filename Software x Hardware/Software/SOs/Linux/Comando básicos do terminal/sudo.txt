@@ -1,4 +1,0 @@
-$ sudo apt update
-[sudo] senha para vinicius: 
-Atingido:1 http://br.archive.ubuntu.com/ubuntu focal InRelease
-Lendo listas de pacotes... Pronto
