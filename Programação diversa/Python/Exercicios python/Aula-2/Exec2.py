@@ -1,8 +1,7 @@
-numInput = int(input("Insira um número: "))
-numImpar = 1
-
-while (numInput > numImpar):
-    if numInput % 2 != 0:
-        print(numImpar)
-        numImpar += 2
-        
+x = int(input("Insira um número: "))
+soma = 0
+impares = 1
+while impares <= x:
+    soma += impares
+    impares += 2
+print(f"A soma de todos os números impares de 1 até {x} é: {soma}")

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vinícios\\Documents\\VScode\\Projetos-SENAI\\Programação diversa\\C#\\Temperature convert\\Temperature convert.csproj": {}
+    "c:\\Users\\Vinícios\\Documents\\VScode\\Projetos-SENAI\\Programação diversa\\C#\\Temperature convert\\Temperature convert.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vinícios\\Documents\\VScode\\Projetos-SENAI\\Programação diversa\\C#\\Temperature convert\\Temperature convert.csproj": {
+    "c:\\Users\\Vinícios\\Documents\\VScode\\Projetos-SENAI\\Programação diversa\\C#\\Temperature convert\\Temperature convert.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinícios\\Documents\\VScode\\Projetos-SENAI\\Programação diversa\\C#\\Temperature convert\\Temperature convert.csproj",
+        "projectUniqueName": "c:\\Users\\Vinícios\\Documents\\VScode\\Projetos-SENAI\\Programação diversa\\C#\\Temperature convert\\Temperature convert.csproj",
         "projectName": "Temperature convert",
-        "projectPath": "C:\\Users\\Vinícios\\Documents\\VScode\\Projetos-SENAI\\Programação diversa\\C#\\Temperature convert\\Temperature convert.csproj",
+        "projectPath": "c:\\Users\\Vinícios\\Documents\\VScode\\Projetos-SENAI\\Programação diversa\\C#\\Temperature convert\\Temperature convert.csproj",
         "packagesPath": "C:\\Users\\Vinícios\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinícios\\Documents\\VScode\\Projetos-SENAI\\Programação diversa\\C#\\Temperature convert\\obj\\",
+        "outputPath": "c:\\Users\\Vinícios\\Documents\\VScode\\Projetos-SENAI\\Programação diversa\\C#\\Temperature convert\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vinícios\\AppData\\Roaming\\NuGet\\NuGet.Config"
