@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpBibliTeste")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84eedb9b73451d4b5d762d8dd0c48fb9e7c79fc9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0359a9d442f6a7d2b594cef9920796c7b5f3b53d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpBibliTeste")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpBibliTeste")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
