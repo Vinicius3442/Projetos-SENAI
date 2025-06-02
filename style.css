@@ -1,6 +1,6 @@
 :root {
   --primary: #a259ff;
-  --secondary: #64ffda;
+  --secondary: #7d1afe;
   --dark: #181824;
   --card: #23233a;
   --light: #ffffff;
@@ -123,7 +123,32 @@ header {
   overflow: hidden;
   box-shadow: 0 10px 30px rgba(162, 89, 255, 0.3);
 }
+.project-badges a:hover span {
+  background: #444d56;
+}
+.project-badges a:nth-child(2):hover span {
+  background: #218838;
+}
+.project-badges a span {
+  display: inline-flex;
+  align-items: center;
+  background: #24292f;
+  color: #fff;
+  border-radius: 20px;
+  padding: 6px 14px;
+  font-size: 14px;
+  font-weight: 500;
+  gap: 6px;
+  transition: background 0.2s;
+}
 
+.project-badges a:nth-child(2) span {
+  background: #2da44e;
+}
+
+.project-badges a span i {
+  font-size: 16px;
+}
 .profile-img img {
   width: 95%;
   height: 95%;
@@ -172,7 +197,7 @@ h2 {
   background: var(--secondary);
   color: var(--dark);
   transform: translateY(-3px);
-  box-shadow: 0 8px 20px rgba(100, 255, 218, 0.4);
+  box-shadow: 0 8px 20px rgba(170, 128, 225, 0.348);
 }
 
 .btn i {
@@ -193,7 +218,7 @@ h2 {
   height: 50px;
   border-radius: 50%;
   background: var(--card);
-  color: var(--gray);
+  text-decoration: none;
   font-size: 1.5rem;
   transition: all 0.3s;
 }
