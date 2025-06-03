@@ -31,3 +31,30 @@ hiddenElements.forEach((el) => {
   el.classList.add("hidden");
   observer.observe(el);
 });
+
+(function () {
+  emailjs.init("tSRfpA16QKlRch5It");
+})();
+
+document.getElementById("emailForm").addEventListener("submit", function (e) {
+  e.preventDefault();
+  const status = document.getElementById("formStatus");
+  status.textContent = "Enviando...";
+  emailjs
+    .send("service_dzli1jr", "template_bq1r32m", {
+      from_name: document.getElementById("name").value,
+      from_email: document.getElementById("email").value,
+      message: document.getElementById("message").value,
+    })
+    .then(
+      function () {
+        status.style.color = "var(--primary)";
+        status.textContent = "Mensagem enviada com sucesso!";
+        document.getElementById("emailForm").reset();
+      },
+      function (error) {
+        status.style.color = "var(--accent)";
+        status.textContent = "Erro ao enviar. Tente novamente.";
+      }
+    );
+});

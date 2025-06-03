@@ -123,12 +123,23 @@ header {
   overflow: hidden;
   box-shadow: 0 10px 30px rgba(162, 89, 255, 0.3);
 }
+
+.profile-img img {
+  width: 95%;
+  height: 95%;
+  border-radius: 50%;
+  object-fit: cover;
+  background: var(--card);
+}
+
 .project-badges a:hover span {
   background: #444d56;
 }
+
 .project-badges a:nth-child(2):hover span {
   background: #218838;
 }
+
 .project-badges a span {
   display: inline-flex;
   align-items: center;
@@ -148,13 +159,6 @@ header {
 
 .project-badges a span i {
   font-size: 16px;
-}
-.profile-img img {
-  width: 95%;
-  height: 95%;
-  border-radius: 50%;
-  object-fit: cover;
-  background: var(--card);
 }
 
 h1 {
@@ -304,6 +308,7 @@ section {
   margin-right: 10px;
   font-size: 1.2rem;
 }
+
 .contact-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -408,24 +413,19 @@ footer {
   .nav-links {
     gap: 15px;
   }
-
   h1 {
     font-size: 2.5rem;
   }
-
   h2 {
     font-size: 1.5rem;
   }
-
   .hero-content {
     flex-direction: column-reverse;
     text-align: center;
   }
-
   .social-icons {
     justify-content: center;
   }
-
   .section-title {
     font-size: 2rem;
   }
@@ -436,17 +436,14 @@ footer {
     flex-direction: column;
     gap: 15px;
   }
-
   .nav-links {
     gap: 10px;
     flex-wrap: wrap;
     justify-content: center;
   }
-
   h1 {
     font-size: 2rem;
   }
-
   .section-title {
     font-size: 1.8rem;
   }
@@ -457,6 +454,7 @@ footer {
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 30px;
   justify-items: center;
+  align-items: center;
 }
 
 .project-card {
@@ -470,6 +468,7 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
 
 .project-card:hover {
@@ -508,25 +507,69 @@ footer {
   background: rgba(227, 76, 38, 0.15);
   color: #e34c26;
 }
+
 .tag-css {
   background: rgba(38, 77, 228, 0.15);
   color: #264de4;
 }
+
 .tag-js {
   background: rgba(247, 223, 30, 0.15);
   color: #f7df1e;
 }
+
 .tag-bootstrap {
   background: rgba(86, 61, 124, 0.15);
   color: #563d7c;
 }
+
 .tag-cpp {
   background: rgba(21, 114, 182, 0.15);
   color: #1572b6;
 }
+
 .tag-arduino {
   background: rgba(0, 123, 67, 0.15);
   color: #007b43;
+}
+
+#contact .contact-info {
+  max-width: 500px;
+  margin: 0 auto 40px;
+}
+
+#contact h3 {
+  color: var(--secondary);
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#contact form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+#contact input[type="text"],
+#contact input[type="email"],
+#contact textarea {
+  width: 100%;
+  padding: 10px;
+  border-radius: 6px;
+  border: 2px solid var(--primary);
+  background: #fff;
+  color: #222;
+  font-size: 1rem;
+  transition: border 0.2s;
+  box-sizing: border-box;
+}
+
+#contact button[type="submit"].btn {
+  width: 100%;
+}
+
+#formStatus {
+  margin-top: 15px;
+  text-align: center;
 }
 
 .project-card h3 {
