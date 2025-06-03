@@ -1,6 +1,6 @@
 # Portfólio de Projetos — Curso de Desenvolvimento de Sistemas | SENAI
 
-![Capa do Portfólio](./imagens/capa-home.png) home do portfólio atualmente está em desenvolvimento
+![Capa do Portfólio](./Assets/img/Home-porfolio.png)
 
 [![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=flat-square)]()
 [![Atualizado](https://img.shields.io/badge/Última%20atualização-Junho%202025-informational?style=flat-square)]()
