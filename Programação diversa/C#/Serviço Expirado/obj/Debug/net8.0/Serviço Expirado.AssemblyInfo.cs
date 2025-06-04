@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Serviço Expirado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edfbd5e4755e072bba5ed5e226976492fdfed4b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a622194423d0bb9a7e9335781fee02719a0080e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Serviço Expirado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Serviço Expirado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
