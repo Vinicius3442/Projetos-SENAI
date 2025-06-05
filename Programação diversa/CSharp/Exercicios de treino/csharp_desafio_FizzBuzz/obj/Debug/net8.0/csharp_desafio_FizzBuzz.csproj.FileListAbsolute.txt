@@ -1,0 +1,15 @@
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\csharp_desafio_FizzBuzz\bin\Debug\net8.0\csharp_desafio_FizzBuzz.exe
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\csharp_desafio_FizzBuzz\bin\Debug\net8.0\csharp_desafio_FizzBuzz.deps.json
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\csharp_desafio_FizzBuzz\bin\Debug\net8.0\csharp_desafio_FizzBuzz.runtimeconfig.json
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\csharp_desafio_FizzBuzz\bin\Debug\net8.0\csharp_desafio_FizzBuzz.dll
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\csharp_desafio_FizzBuzz\bin\Debug\net8.0\csharp_desafio_FizzBuzz.pdb
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\csharp_desafio_FizzBuzz\obj\Debug\net8.0\csharp_desafio_FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\csharp_desafio_FizzBuzz\obj\Debug\net8.0\csharp_desafio_FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\csharp_desafio_FizzBuzz\obj\Debug\net8.0\csharp_desafio_FizzBuzz.AssemblyInfo.cs
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\csharp_desafio_FizzBuzz\obj\Debug\net8.0\csharp_desafio_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\csharp_desafio_FizzBuzz\obj\Debug\net8.0\csharp_desafio_FizzBuzz.sourcelink.json
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\csharp_desafio_FizzBuzz\obj\Debug\net8.0\csharp_desafio_FizzBuzz.dll
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\csharp_desafio_FizzBuzz\obj\Debug\net8.0\refint\csharp_desafio_FizzBuzz.dll
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\csharp_desafio_FizzBuzz\obj\Debug\net8.0\csharp_desafio_FizzBuzz.pdb
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\csharp_desafio_FizzBuzz\obj\Debug\net8.0\csharp_desafio_FizzBuzz.genruntimeconfig.cache
+C:\Users\Vinícios\Documents\VScode\Projetos-SENAI\csharp_desafio_FizzBuzz\obj\Debug\net8.0\ref\csharp_desafio_FizzBuzz.dll

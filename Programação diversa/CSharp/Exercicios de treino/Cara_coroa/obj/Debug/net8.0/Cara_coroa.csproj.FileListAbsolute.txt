@@ -1,0 +1,15 @@
+c:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\Cara_coroa\bin\Debug\net8.0\Cara_coroa.exe
+c:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\Cara_coroa\bin\Debug\net8.0\Cara_coroa.deps.json
+c:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\Cara_coroa\bin\Debug\net8.0\Cara_coroa.runtimeconfig.json
+c:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\Cara_coroa\bin\Debug\net8.0\Cara_coroa.dll
+c:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\Cara_coroa\bin\Debug\net8.0\Cara_coroa.pdb
+c:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\Cara_coroa\obj\Debug\net8.0\Cara_coroa.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\Cara_coroa\obj\Debug\net8.0\Cara_coroa.AssemblyInfoInputs.cache
+c:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\Cara_coroa\obj\Debug\net8.0\Cara_coroa.AssemblyInfo.cs
+c:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\Cara_coroa\obj\Debug\net8.0\Cara_coroa.csproj.CoreCompileInputs.cache
+c:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\Cara_coroa\obj\Debug\net8.0\Cara_coroa.sourcelink.json
+c:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\Cara_coroa\obj\Debug\net8.0\Cara_coroa.dll
+c:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\Cara_coroa\obj\Debug\net8.0\refint\Cara_coroa.dll
+c:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\Cara_coroa\obj\Debug\net8.0\Cara_coroa.pdb
+c:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\Cara_coroa\obj\Debug\net8.0\Cara_coroa.genruntimeconfig.cache
+c:\Users\Vinícios\Documents\VScode\Projetos-SENAI\Programação diversa\C#\Cara_coroa\obj\Debug\net8.0\ref\Cara_coroa.dll
