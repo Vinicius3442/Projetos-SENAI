@@ -15,7 +15,6 @@ public static class Program
 
         int lancamento = random.Next(1, 3);
 
-
         Console.Write($"Lançamento {(lancamento == 2 ? "Coroa" : "Cara")}");
     }
 }
