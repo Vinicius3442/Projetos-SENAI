@@ -8,16 +8,13 @@ import time
 # pag.PAUSE é usado para definir um tempo de pausa entre as ações
 
 
-pag.PAUSE = 0.5
+pag.PAUSE = 0.5 
 pag.press("win")
-pag.write("firefox")
+pag.write("chrome")
 pag.press("enter")
 time.sleep(2)
-pag.write("https://web.whatsapp.com/")
 pag.press("enter")
-time.sleep(5)
-pag.click(x=400, y=520)
-pag.write("Olá, isso é uma mensagem automática!, criada por um script Python, não é mesmo incrível?")
+pag.write("http://youtube.com/watch?v=E0ozmU9cJDg")
 pag.press("enter")
 
 # Conhecimentos adquiridos por meio da semana de Python da Hashtag Programação
