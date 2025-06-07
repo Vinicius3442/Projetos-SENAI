@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-
-namespace DesafioFizzBuzz;
+﻿namespace DesafioFizzBuzz;
 
 public static class Program
 {

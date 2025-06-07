@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-
-namespace Csharp_conditional_challenge;
+﻿namespace Csharp_conditional_challenge;
 
 public static class Program
 {

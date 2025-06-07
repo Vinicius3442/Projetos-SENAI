@@ -8,8 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Vinícios\\.nuget\\packages\\": {},
-    "D:\\Code\\VSComponents\\NuGetPackages": {}
+    "C:\\Users\\Vinícios\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -20,19 +19,13 @@
       "packagesPath": "C:\\Users\\Vinícios\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Vinícios\\Documents\\VScode\\Projetos-SENAI\\Programação diversa\\CSharp\\Exercicios de treino\\Temperature convert\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Code\\VSComponents\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Vinícios\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Vinícios\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

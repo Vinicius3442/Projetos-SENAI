@@ -1,8 +1,6 @@
-﻿using System;
-using System.Linq;
-// program em que o desafio é corrigir a indentação do código
+﻿// program em que o desafio é corrigir a indentação do código
 // e melhorar a legibilidade do código, mantendo a lógica intacta
-namespace Csharp_CorrijirIndentação;
+namespace Csharp_Corrijirindentacao;
 
 public static class Program
 {

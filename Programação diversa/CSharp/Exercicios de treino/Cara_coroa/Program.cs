@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-
-namespace Cara_coroa;
+﻿namespace Cara_coroa;
 
 public static class Program
 {
