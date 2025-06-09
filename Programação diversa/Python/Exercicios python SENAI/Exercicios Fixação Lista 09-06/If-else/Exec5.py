@@ -1,3 +1,5 @@
+# Vinicius Montuani
+
 lado1 = float(input("Digite o comprimento do primeiro lado do triângulo: "))
 lado2 = float(input("Digite o comprimento do segundo lado do triângulo: "))
 lado3 = float(input("Digite o comprimento do terceiro lado do triângulo: "))

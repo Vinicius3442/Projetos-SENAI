@@ -1,3 +1,5 @@
+# Vinicius Montuani 
+
 nomes = []
 while True:
     nome = input("Digite um nome ou 'sair' para encerrar: ")

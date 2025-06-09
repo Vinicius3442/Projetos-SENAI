@@ -1,3 +1,5 @@
+# Vinicius Montuani 
+
 def palindromo(palavra):
     palavra = palavra.lower()
     if palavra == palavra[::-1]:
