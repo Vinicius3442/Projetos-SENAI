@@ -16,19 +16,15 @@ def criarPersonagem(nome, vida, classe, ataque, defesa, determinacao):
 
 
 def inimigoAleatorio():
-    num = random.randint(1, 10)
+    num = random.randint(1, 6)
 
     inimigos = {
     1: {"nome": "Dragão Vermelho Demoníaco", "vida": 100, "ataque": 40, "defesa": 20, "intimidacao": 30},
     2: {"nome": "Destruidor de Mundos", "vida": 120, "ataque": 45, "defesa": 25, "intimidacao": 40},
     3: {"nome": "Ctulhu", "vida": 200, "ataque": 60, "defesa": 40, "intimidacao": 100},
-    4: {"nome": "Xenomorfo", "vida": 110, "ataque": 55, "defesa": 25, "intimidacao": 70},
-    5: {"nome": "Sans (Undertale)", "vida": 80, "ataque": 50, "defesa": 20, "intimidacao": 60},
-    6: {"nome": "Gaster (Undertale)", "vida": 200, "ataque": 80, "defesa": 40, "intimidacao": 100},
-    7: {"nome": "Demonio Abissal", "vida": 180, "ataque": 70, "defesa": 35, "intimidacao": 90},
-    8: {"nome": "Dragão Negro", "vida": 180, "ataque": 65, "defesa": 50, "intimidacao": 85},
-    9: {"nome": "Demogorgon", "vida": 170, "ataque": 70, "defesa": 40, "intimidacao": 90},
-    10: {"nome": "Ultra Apelão de Código Quebrado", "vida": 999, "ataque": 999, "defesa": 999, "intimidacao": 999}
+    4: {"nome": "Demonio Abissal", "vida": 180, "ataque": 70, "defesa": 35, "intimidacao": 90},
+    5: {"nome": "Dragão Negro", "vida": 180, "ataque": 65, "defesa": 50, "intimidacao": 85},
+    6: {"nome": "Literalmente deus", "vida": 999, "ataque": 999, "defesa": 999, "intimidacao": 999}
     }
 
 
