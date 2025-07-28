@@ -3,7 +3,7 @@
 ![Capa do Portfólio](./Assets/img/Home-porfolio.png)
 
 [![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=flat-square)]()
-[![Atualizado](https://img.shields.io/badge/Última%20atualização-Junho%202025-informational?style=flat-square)]()
+[![Atualizado](https://img.shields.io/badge/Última%20atualização-Agosto%202025-informational?style=flat-square)]()
 [![Feito por Vinicius](https://img.shields.io/badge/Autor-Vinicius_Montuani-blueviolet?style=flat-square)]()
 ## Acesse o projeto online
 
