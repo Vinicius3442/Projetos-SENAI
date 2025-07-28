@@ -1,4 +1,3 @@
-// Smooth scrolling for navigation links
 document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
   anchor.addEventListener("click", function (e) {
     e.preventDefault();
@@ -7,7 +6,6 @@ document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
       behavior: "smooth",
     });
 
-    // Update active link
     document.querySelectorAll(".nav-links a").forEach((link) => {
       link.classList.remove("active");
     });
@@ -15,7 +13,6 @@ document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
   });
 });
 
-// Animation on scroll
 const observer = new IntersectionObserver((entries) => {
   entries.forEach((entry) => {
     if (entry.isIntersecting) {
